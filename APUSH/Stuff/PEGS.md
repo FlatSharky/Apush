@@ -1,4 +1,0 @@
-Political
-Economic
-Geography
-Society
