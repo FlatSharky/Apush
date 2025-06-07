@@ -1,6 +1,0 @@
-- Transition Sentence
-- Restate Thesis differently
-- Explain how you have defended thesis (summarize details)
-- End by connecting it to bigger picture (what's going on right now)
--not recommended "In conclusion"
--jump in 

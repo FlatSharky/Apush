@@ -1,6 +1,0 @@
-- Hook Sentence or Context or combine them 
-- Thesis/Claim - Answer to question + your opinion (you don't have to restate the question to answer the question)
-- Brief explanation of defense of thesis/claim
-- Transition sentence to first topic (just write it)
--write as if giving a lecture
--write like you are the expert
